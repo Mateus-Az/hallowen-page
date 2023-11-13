@@ -1,1 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
+@import 'config-scss/variables.scss';
+@import 'config-scss/animations.scss';
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@800&family=Poppins:wght@400;600;700;800&family=Quicksand:wght@400;500;600;700&family=Roboto:wght@100;400;700&display=swap');
+@import 'config-scss/reset.scss';
